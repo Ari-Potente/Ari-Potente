@@ -16,6 +16,7 @@
 ## 🏅 Achievements
 
 📜 Certificate in Advanced English (C1) granted by **Cambridge University Press & Assessment English**.
+📜 Azure Cloud Services course granted by **Microsoft and Coursera**.
 
 
 ##  🔨 Skills
